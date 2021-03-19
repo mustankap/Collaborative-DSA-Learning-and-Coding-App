@@ -1,4 +1,4 @@
-# hackathon
+# Hackathon
 
 Because the world needs more real time collab.
 
