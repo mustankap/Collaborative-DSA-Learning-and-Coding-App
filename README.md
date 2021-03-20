@@ -1,4 +1,8 @@
 # Hackathon_Hackticks
+
+[![Python](https://img.shields.io/pypi/pyversions/tensorflow.svg?style=plastic)](https://badge.fury.io/py/tensorflow)
+[![PyPI](https://badge.fury.io/py/tensorflow.svg)](https://badge.fury.io/py/tensorflow)
+
 <hr>
 
 An educative interface for students wanting to learn the concepts of CS or any of that matter
