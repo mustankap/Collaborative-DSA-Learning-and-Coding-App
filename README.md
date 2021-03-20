@@ -2,7 +2,7 @@
 
 [![Python](https://img.shields.io/pypi/pyversions/tensorflow.svg?style=plastic)](https://badge.fury.io/py/tensorflow)
 [![PyPI](https://badge.fury.io/py/tensorflow.svg)](https://badge.fury.io/py/tensorflow)
-[![Django](https://img.shields.io/pypi/djversions/djangorestframework)]
+[!Django](https://img.shields.io/pypi/djversions/djangorestframework)
 <hr>
 
 An educative interface for students wanting to learn the concepts of CS or any of that matter
