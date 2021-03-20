@@ -1,4 +1,5 @@
-# Hackathon
+# Hackathon_Hackticks
+<hr>
 
 An educative interface for students wanting to learn the concepts of CS or any of that matter
 
